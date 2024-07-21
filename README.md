@@ -1,15 +1,16 @@
 # eduSaeeum
+강원교육새음체
 
 <pre>
-  @font-face {
+@font-face {
     font-family: "eduSaeeum";
     font-weight: normal;
     font-style: normal;
-    src: url("https://cdn.jsdelivr.net/gh/websfont/eduSaeeum/eduSaeeum.eot");
-    src: url("https://cdn.jsdelivr.net/gh/websfont/eduSaeeum/eduSaeeum.eot?#iefix") format("embedded-opentype"),
-         url("https://cdn.jsdelivr.net/gh/websfont/eduSaeeum/eduSaeeum.woff2") format("woff2"),
-         url("https://cdn.jsdelivr.net/gh/websfont/eduSaeeum/eduSaeeum.woff") format("woff"),
-         url("https://cdn.jsdelivr.net/gh/websfont/eduSaeeum/eduSaeeum.ttf") format("truetype");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/eduSaeeum/eduSaeeum.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/eduSaeeum/eduSaeeum.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/eduSaeeum/eduSaeeum.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/eduSaeeum/eduSaeeum.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/eduSaeeum/eduSaeeum.ttf") format("truetype");
     font-display: swap;
 } 
 .eduSaeeum {
